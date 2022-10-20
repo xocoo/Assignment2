@@ -38,7 +38,7 @@
             android:id="@+id/result_txtv"
             android:layout_width="match_parent"
             android:layout_height="114dp"
-            android:text="Hello World!"
+            android:text="Today is dinner"
             android:textAlignment="center"
             android:textSize="20sp" />
 
